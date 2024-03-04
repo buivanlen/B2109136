@@ -5,6 +5,6 @@
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
+- ✍ I'm a student at [CTU]([https://akachain.io/](https://www.ctu.edu.vn/)https://www.ctu.edu.vn/).
 
 <br />
